@@ -9,6 +9,11 @@ vagrant up
 Analyse the given PCAP file, and retrieve the document sent to a target server. Wireshark is installed by default in Kali VM.
 The PCAP file challenge-01.pcap in the Kali VM desktop.
 
+Tip: to install libreoffice use the below command
+```
+sudo apt-get install -y libreoffice
+```
+
 ### Useful Links 
 Some useful links for solving the challenge
 * [Hex Editor for converting and downloading files from raw hex values](https://hexed.it/)
